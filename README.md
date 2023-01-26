@@ -42,7 +42,7 @@
 ```
 
  Пример использования PostRequest (node-fetch)
-```
+```js
   let url = `http://localhost:8080/api/server/command`
   let response;
   const params = new URLSearchParams();
